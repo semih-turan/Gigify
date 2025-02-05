@@ -1,2 +1,6 @@
 .DS_Store
-/docker-volumes
+docker-volumes
+*.log
+.DS_Store
+dist
+build
