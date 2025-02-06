@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "index.js",
   "description": "Helpers library for Gigify app",
@@ -18,7 +18,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@semih-turan/gigify-shared",
+  "name": "@semihturan/gigify-shared",
   "author": "Semih Turan",
   "repository": {
     "type": "git",
